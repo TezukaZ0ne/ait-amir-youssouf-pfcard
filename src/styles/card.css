@@ -58,6 +58,7 @@
 .descripcion p{
     font-weight: 300;
     font-size: 17px;
+    white-space: pre-line;
 }
 
 .descripcion h1{
